@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </a> <a href="https://www.haskell.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> 
   </a> <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://camo.githubusercontent.com/8d56e87edf99e89bfc457cd62462e0b7aae19e6b197b1df5c542d474d8d76f81/68747470733a2f2f646576656c6f7065722e6665646f726170726f6a6563742e6f72672f7374617469632f6c6f676f2f6373686172702e706e67" alt="csharp" width="40" height="40"/> 
-  </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.nicepng.com/png/full/127-1274512_unity-transparent-white-png-unity.png" alt="unity" width="40" height="40"/> 
-  </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://flyclipart.com/thumb2/mongodb-atlas-hits-amazon-web-services-marketplace-499956.png" alt="mongodb" width="40" height="40"/> 
+  </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.nicepng.com/png/full/127-1274512_unity-transparent-white-png-unity.png" alt="unity" width="60" height="40"/> 
+  </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" alt="mongodb" width="60" height="40"/> 
