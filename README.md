@@ -1,5 +1,4 @@
-# 💫 About Me:
-A AI student, <br>our protagonist is driven by their passion for technology and desire to experiment.<br>I work part-time as a data analyst at Colliers, applying their AI knowledge to uncover valuable insights from data and contribute to the company's strategic direction. 
+
 
 
 # 💻 Tech Stack:
